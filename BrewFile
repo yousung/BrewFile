@@ -1,0 +1,37 @@
+# brew
+brew "fzf"
+brew "mas"
+brew "node"
+brew "nvm"
+brew "php@7.3", restart_service: true
+brew "php@7.4", link: true
+brew "redis", restart_service: true
+brew "ruby"
+brew "serverless"
+brew "watchman"
+brew "wget"
+brew "youtube-dl"
+
+# cask
+cask "phpmon"
+
+# mas
+mas "MeetInOne", id: 1542778639
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Microsoft Excel", id: 462058435
+mas "Amphetamine", id: 937984704
+mas "카카오톡", id: 869223134
+mas "GIPHY CAPTURE", id: 668208984
+mas "Motion", id: 434290957
+mas "한컴오피스 한글 2014 VP 뷰어", id: 416746898
+mas "Numbers", id: 409203825
+mas "Xcode", id: 497799835
+mas "Bitwarden", id: 1352778147
+mas "Pages", id: 409201541
+mas "유니콘 HTTPS", id: 1475628500
+mas "iMovie", id: 408981434
+mas "SimplyJSON", id: 1495193038
+mas "무비스트", id: 461788075
+mas "Slack", id: 803453959
+mas "Compressor", id: 424390742
